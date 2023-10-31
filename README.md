@@ -34,6 +34,11 @@ Here are some ideas to get you started:
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [claude.aiつかってみた](https://qiita.com/kawasan/items/8d61322c3fc35bf9928e)
+- [FastAPIでMySQLのデータベースCRUD操作](https://zenn.dev/kou_kawa/articles/08-first-mysql-fastapi)
+- [FastAPI始めました](https://zenn.dev/kou_kawa/articles/07-first-fastapi)
+- [Webアプリの自動ビルドとArtifact Registryにイメージ保管](https://zenn.dev/kou_kawa/articles/06-artifact-registory)
+- [Cloud Functionsの関数をCloud Schedulerで実行](https://zenn.dev/kou_kawa/articles/05-cloud-scheduler)
 <!-- BLOG-POST-LIST:END -->
 
 Thank you.
