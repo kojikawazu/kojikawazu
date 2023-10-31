@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 
 ---
 
-🔧 Backend Engineer | 🐧 Linux Engineer
-🌐 Challenges in front-end, CI/CD, and cloud technologies outside of work
-📡 Always on the lookout for new skills and technology trends.
+My name is Koji Kawazu.
+
+- 🔧 Backend Engineer | 🐧 Linux Engineer
+- 🌐 Challenges in front-end, CI/CD, and cloud technologies outside of work
+- 📡 Always on the lookout for new skills and technology trends.
 
 
 ### Status
