@@ -36,11 +36,11 @@ My name is Koji Kawazu.
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHubプロフィールのカスタマイズ方法](https://qiita.com/kawasan/items/f50dbfb5ef63163f37a8)
 - [FastAPIとSQLAlchemyでリレーショナルデータベースからの複雑なデータ取得](https://zenn.dev/kou_kawa/articles/09-second-mysql-fastapi)
 - [claude.aiつかってみた](https://qiita.com/kawasan/items/8d61322c3fc35bf9928e)
 - [FastAPIでMySQLのデータベースCRUD操作](https://zenn.dev/kou_kawa/articles/08-first-mysql-fastapi)
 - [FastAPI始めました](https://zenn.dev/kou_kawa/articles/07-first-fastapi)
-- [Webアプリの自動ビルドとArtifact Registryにイメージ保管](https://zenn.dev/kou_kawa/articles/06-artifact-registory)
 <!-- BLOG-POST-LIST:END -->
 
 Thank you.
