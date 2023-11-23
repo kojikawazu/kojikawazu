@@ -36,11 +36,11 @@ My name is Koji Kawazu.
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [udemyで学ぶ：スキル習得のための10の教材](https://qiita.com/kawasan/items/3e81f4b97a4c00891f23)
 - [FastAPIでAPIを使ってみよう①](https://zenn.dev/kou_kawa/articles/13-fastpi-api-hotpepper)
 - [Next.js + TypeScript + Google Map JavaScript APIから機能追加してみる](https://zenn.dev/kou_kawa/articles/12-next-ts-googlemap2)
 - [Next.js + TypeScript + Google Map JavaScript APIを試してみる](https://zenn.dev/kou_kawa/articles/11-next-ts-googlemap)
 - [FastAPIでOAuth2.0認証](https://zenn.dev/kou_kawa/articles/10-oauth20-fastapi)
-- [GitHubプロフィールのカスタマイズ方法](https://qiita.com/kawasan/items/f50dbfb5ef63163f37a8)
 <!-- BLOG-POST-LIST:END -->
 
 Thank you.
