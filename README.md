@@ -36,11 +36,11 @@ My name is Koji Kawazu.
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Terraformの道：AWSでインフラをコード化する旅1](https://zenn.dev/kou_kawa/articles/15-terraform-aws-first)
 - [udemyで学ぶ：スキル習得のための10の教材](https://qiita.com/kawasan/items/3e81f4b97a4c00891f23)
 - [udemyで学ぶ：スキル習得のための10の教材](https://zenn.dev/kou_kawa/articles/14-udemy-intro-01)
 - [FastAPIでAPIを使ってみよう①](https://zenn.dev/kou_kawa/articles/13-fastpi-api-hotpepper)
 - [Next.js + TypeScript + Google Map JavaScript APIから機能追加してみる](https://zenn.dev/kou_kawa/articles/12-next-ts-googlemap2)
-- [Next.js + TypeScript + Google Map JavaScript APIを試してみる](https://zenn.dev/kou_kawa/articles/11-next-ts-googlemap)
 <!-- BLOG-POST-LIST:END -->
 
 Thank you.
