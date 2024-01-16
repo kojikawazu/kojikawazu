@@ -36,11 +36,11 @@ My name is Koji Kawazu.
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Terraformの道3：Packerを使用したAMIのコード化](https://zenn.dev/kou_kawa/articles/17-terraform-aws-ec2-ami)
 - [Terraformの道2：EC2用の環境構築をコード化](https://zenn.dev/kou_kawa/articles/16-terraform-aws-ec2)
-- [Terraformの道：AWSでインフラをコード化する旅1](https://zenn.dev/kou_kawa/articles/15-terraform-aws-first)
+- [Terraformの道1：AWSでインフラをコード化する旅](https://zenn.dev/kou_kawa/articles/15-terraform-aws-first)
 - [udemyで学ぶ：スキル習得のための10の教材](https://qiita.com/kawasan/items/3e81f4b97a4c00891f23)
 - [udemyで学ぶ：スキル習得のための10の教材](https://zenn.dev/kou_kawa/articles/14-udemy-intro-01)
-- [FastAPIでAPIを使ってみよう①](https://zenn.dev/kou_kawa/articles/13-fastpi-api-hotpepper)
 <!-- BLOG-POST-LIST:END -->
 
 Thank you.
