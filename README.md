@@ -36,11 +36,11 @@ My name is Koji Kawazu.
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Terraformの道7：CloudFrontを導入](https://zenn.dev/kou_kawa/articles/21-terraform-aws-cloudfront)
 - [Terraformの道6：ACMを導入しHTTPS対応](https://zenn.dev/kou_kawa/articles/20-terraform-aws-ssl)
 - [Terraformの道5：Route53でドメイン化](https://zenn.dev/kou_kawa/articles/19-terraform-aws-route53)
 - [Terraformの道4：ELBの導入](https://zenn.dev/kou_kawa/articles/18-terraform-aws-elb)
 - [Terraformの道3：Packerを使用したAMIのコード化](https://zenn.dev/kou_kawa/articles/17-terraform-aws-ec2-ami)
-- [Terraformの道2：EC2用の環境構築をコード化](https://zenn.dev/kou_kawa/articles/16-terraform-aws-ec2)
 <!-- BLOG-POST-LIST:END -->
 
 Thank you.
