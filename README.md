@@ -36,11 +36,11 @@ My name is Koji Kawazu.
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Books APIを使ってみる ～Next.js + Laravel～](https://zenn.dev/kou_kawa/articles/26-nextjs-laravel-bookapi)
 - [ECSとコード化を学ぶ](https://zenn.dev/kou_kawa/articles/25-terraform-aws-ecs)
 - [WSL&lpar;Ubuntu&rpar;環境上でSpringプロジェクトコンテナを効率的にテンプレート化](https://zenn.dev/kou_kawa/articles/24-wsl-docker-spring)
 - [Auto Scaling Groupを導入し、EC2インスタンスをスケーリングしてみる](https://zenn.dev/kou_kawa/articles/22-terraform-aws-autoscaling)
 - [Terraformの道7：CloudFrontを導入](https://zenn.dev/kou_kawa/articles/21-terraform-aws-cloudfront)
-- [Terraformの道6：ACMを導入しHTTPS対応](https://zenn.dev/kou_kawa/articles/20-terraform-aws-ssl)
 <!-- BLOG-POST-LIST:END -->
 
 Thank you.
