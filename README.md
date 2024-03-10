@@ -36,11 +36,11 @@ My name is Koji Kawazu.
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GraphQLをNestJSで使って学ぶ](https://zenn.dev/kou_kawa/articles/30-graphql-nextjs-nestjs)
 - [Seleniumを使ったWebアプリケーションテストの自動化](https://zenn.dev/kou_kawa/articles/28-selenium-python)
 - [AWS App Runner + RDSにGitHub Actionsで自動デプロイする方法](https://zenn.dev/kou_kawa/articles/27-githubactions-aws-terraform)
 - [Google Books APIを使ってみる ～Next.js + Laravel～](https://zenn.dev/kou_kawa/articles/26-nextjs-laravel-bookapi)
 - [ECSとコード化を学ぶ](https://zenn.dev/kou_kawa/articles/25-terraform-aws-ecs)
-- [WSL&lpar;Ubuntu&rpar;環境上でSpringプロジェクトコンテナを効率的にテンプレート化](https://zenn.dev/kou_kawa/articles/24-wsl-docker-spring)
 <!-- BLOG-POST-LIST:END -->
 
 Thank you.
