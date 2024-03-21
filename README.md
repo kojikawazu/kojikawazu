@@ -36,11 +36,11 @@ My name is Koji Kawazu.
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS上でAnsibleを使ってみた体験記](https://zenn.dev/kou_kawa/articles/32-ansible-aws-01)
 - [Next.jsからGraphQLサーバーへアクセスしてみる](https://zenn.dev/kou_kawa/articles/31-graphql-nextjs-nestjs02)
 - [GraphQLをNestJSで使って学ぶ](https://zenn.dev/kou_kawa/articles/30-graphql-nextjs-nestjs)
 - [Seleniumを使ったWebアプリケーションテストの自動化](https://zenn.dev/kou_kawa/articles/28-selenium-python)
 - [AWS App Runner + RDSにGitHub Actionsで自動デプロイする方法](https://zenn.dev/kou_kawa/articles/27-githubactions-aws-terraform)
-- [Google Books APIを使ってみる ～Next.js + Laravel～](https://zenn.dev/kou_kawa/articles/26-nextjs-laravel-bookapi)
 <!-- BLOG-POST-LIST:END -->
 
 Thank you.
