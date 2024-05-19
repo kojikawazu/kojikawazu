@@ -36,11 +36,11 @@ My name is Koji Kawazu.
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [React + TypeScriptでテストコードの基礎を固める](https://zenn.dev/kou_kawa/articles/37-react-unit-test)
 - [デザインパターン備忘録&lpar;後半&rpar;](https://zenn.dev/kou_kawa/articles/36-design-pattern-02)
 - [デザインパターン備忘録&lpar;前半&rpar;](https://zenn.dev/kou_kawa/articles/35-design-pattern-01)
 - [Grafana,Prometheusを使った監視を学んでみた](https://zenn.dev/kou_kawa/articles/34-aws-grafana-prometheus)
 - [AWS上でAnsibleを使ってみた体験記](https://zenn.dev/kou_kawa/articles/32-ansible-aws-01)
-- [Next.jsからGraphQLサーバーへアクセスしてみる](https://zenn.dev/kou_kawa/articles/31-graphql-nextjs-nestjs02)
 <!-- BLOG-POST-LIST:END -->
 
 Thank you.
