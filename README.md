@@ -36,11 +36,11 @@ My name is Koji Kawazu.
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LaravelでSupabaseのOAuth認証を設定する方法](https://zenn.dev/kou_kawa/articles/40-laravel-supabase)
 - [Supabaseでの認証ユーザー追加時にデータ挿入エラーの解決方法](https://zenn.dev/kou_kawa/articles/39-nextjs-supabase-oauth-error)
 - [React + TypeScriptでテストコードの基礎を固める](https://zenn.dev/kou_kawa/articles/37-react-unit-test)
 - [デザインパターン備忘録&lpar;後半&rpar;](https://zenn.dev/kou_kawa/articles/36-design-pattern-02)
 - [デザインパターン備忘録&lpar;前半&rpar;](https://zenn.dev/kou_kawa/articles/35-design-pattern-01)
-- [Grafana,Prometheusを使った監視を学んでみた](https://zenn.dev/kou_kawa/articles/34-aws-grafana-prometheus)
 <!-- BLOG-POST-LIST:END -->
 
 Thank you.
