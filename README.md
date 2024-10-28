@@ -25,6 +25,10 @@ My name is Koji Kawazu.
 - 🌐 Challenges in front-end, CI/CD, and cloud technologies outside of work
 - 📡 Always on the lookout for new skills and technology trends.
 
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=java,ts,js,go,py,c,cpp,bash,php,nodejs,html,css,tailwind,bootstrap,react,nextjs,nestjs,spring,django,fastapi,laravel,docker,aws,linux,terraform,ubuntu,vercel,graphql,postgres,supabase,prisma,jest,npm,bun,cloudflare,eclipse,git,github,githubactions,bitbucket,jenkins,md,postman,redis,vim&perline=10)](https://skillicons.dev)
+
 
 ### Status
 
