@@ -24,10 +24,15 @@ My name is Koji Kawazu — 🔧 Backend Engineer | 🐧 Linux Engineer
 
 ### Status
 
+<!--
+github-readme-stats.vercel.app is currently DEPLOYMENT_PAUSED (HTTP 503).
+Hidden until upstream recovers, or migrate to self-hosted Vercel instance.
+
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kojikawazu&theme=transparent" /></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kojikawazu&show_icons=true&theme=transparent" /></a>
 </div>
+-->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kojikawazu&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
